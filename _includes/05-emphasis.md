@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I absolutely **love** to color and paint, and find it *so* relaxing. I also *enjoy* learning new things, like this __Github__, which reminds me a little of learning HTML 
